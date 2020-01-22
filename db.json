@@ -1,1 +1,20 @@
-{"contactDetail":{"firstName":"Santhosh","phoneNumber":"2537923403","birthday":"2019-12-09"},"id":1579727346493,"editable":false},{"contactDetail":{"firstName":"SouthWest","phoneNumber":"6738495634","birthday":"2019-12-08"},"id":1579727390574,"editable":false}]
+[ 
+   { 
+      "contactDetail":{ 
+         "firstName":"Santhosh",
+         "phoneNumber":"2537923403",
+         "birthday":"2019-12-09"
+      },
+      "id":1579727346493,
+      "editable":false
+   },
+   { 
+      "contactDetail":{ 
+         "firstName":"SouthWest",
+         "phoneNumber":"6738495634",
+         "birthday":"2019-12-08"
+      },
+      "id":1579727390574,
+      "editable":false
+   }
+]
