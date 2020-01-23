@@ -1,16 +1,16 @@
 [ 
    { 
-      "contactDetail":{ 
+      
          "firstName":"Santhosh",
          "phoneNumber":"2537923403",
          "birthday":"2019-12-09"
-      }
+      
    },
    { 
-      "contactDetail":{ 
+     
          "firstName":"SouthWest",
          "phoneNumber":"6738495634",
          "birthday":"2019-12-08"
-      }
+      
    }
 ]
