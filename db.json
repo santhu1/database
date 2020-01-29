@@ -3,14 +3,19 @@
       
          "firstName":"Santhosh",
          "phoneNumber":"2537923403",
-         "birthday":"2019-12-09"
+         "birthday":"2019-12-09",
+         "uniqId": "daeenqsj8",
+         "email": "south@gmail.com"
+      
       
    },
    { 
      
          "firstName":"SouthWest",
          "phoneNumber":"6738495634",
-         "birthday":"2019-12-08"
+         "birthday":"2019-12-08",
+         "uniqId": "eyvi4hz8z",
+      "email": "transform@gmail.com"
       
    }
 ]
